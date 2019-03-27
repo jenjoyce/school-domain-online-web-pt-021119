@@ -8,4 +8,8 @@ class School
     @name
   end
   
+  roster {}
+  
+  
+  
 end
