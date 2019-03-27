@@ -8,8 +8,8 @@ class School
     @name
   end
   
-  roster {}
+  roster = {}
   
-  
+  def add_student 
   
 end
